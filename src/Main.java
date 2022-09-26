@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Основная ветка");
+        System.out.println("Основная ветка!");
     }
 }
